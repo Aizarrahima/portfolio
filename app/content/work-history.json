@@ -10,6 +10,10 @@
             "Vue.js",
             "Next.js",
             "Node.js",
+            "Python",
+            "PostgreSQL",
+            "Clickhouse",
+            "MongoDB",
             "Microservices",
             "OpenShift"
         ],

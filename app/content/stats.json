@@ -1,6 +1,6 @@
 [
     {
-        "value": 2,
+        "value": 3,
         "suffix": "+",
         "label": "Years of Experience",
         "note": "Across 3 companies, from internship to full-time"
@@ -21,6 +21,6 @@
         "value": 6,
         "suffix": "",
         "label": "Frameworks Shipped",
-        "note": "React, Vue, Next.js, Angular, Laravel, and .NET"
+        "note": "React, Vue, Next.js, Node.js, Laravel, and .NET"
     }
 ]

@@ -4,8 +4,8 @@
         class="bg-neutral-900 text-white text-center px-4 py-20 rounded-3xl max-w-3xl mx-auto my-16">
         <h2 class="text-2xl font-bold">Let's Talk</h2>
         <p class="mt-3 text-neutral-300 max-w-md mx-auto">
-            Open to discussing new opportunities, collaborations, or just talking shop about backend architecture and
-            Vue.
+            Open to new opportunities, collaborations, or just a chat about building scalable web apps and clean
+            architecture.
         </p>
 
         <a :href="`https://mail.google.com/mail/?view=cm&fs=1&to=${profile.email}&su=${encodeURIComponent('Let\'s talk')}`"

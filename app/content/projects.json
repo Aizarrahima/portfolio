@@ -1,32 +1,39 @@
 [
     {
         "name": "SALMA (SDWAN Asset License Management)",
-        "period": "2024",
+        "period": "2024 - Present",
         "stack": [
             "Vue.js",
-            "Laravel"
+            "Laravel",
+            "PostgreSQL"
         ],
         "description": "Handled UI slicing from prototype to production-ready pages and integrated external project APIs. On the backend, built the inventory analytics menu showing which assets are synced versus not yet synced, developed a public-facing API for external consumption, and handled bug fixing.",
         "link": null
     },
     {
-        "name": "SDWAN Dashboard",
-        "period": "2024",
+        "name": "SDWAN Portal",
+        "period": "2024 - Present",
         "stack": [
+            "Vue.js",
+            "Laravel",
             "Node.js",
-            "ClickHouse"
+            "PostgreSQL",
+            "ClickHouse",
+            "MongoDB"
         ],
         "description": "Developed the Proactive Ticket menu and built a microservice to resolve PDF export reporting issues. Redesigned the SDWAN portal's data-collection architecture — replacing direct per-device polling with a job scheduler across all integrated devices — reducing server load and speeding up data collection for PDF report generation. Also handled ongoing bug fixes.",
         "link": null
     },
     {
         "name": "WFMTA (Workforce Management)",
-        "period": "2024",
+        "period": "2024 - Present",
         "stack": [
             "Laravel",
-            "Vue.js"
+            "Blade",
+            "Python",
+            "PostgreSQL"
         ],
-        "description": "Developed several application features and menus, fixed bugs, and monitored application health using the ELK stack (Elasticsearch, Logstash, Kibana) for log analysis.",
+        "description": "Developed several application features and menus, fixed bugs, and monitored application health using the ELK stack (Elasticsearch and Kibana) for log analysis.",
         "link": null
     },
     {

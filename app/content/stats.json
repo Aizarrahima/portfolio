@@ -1,0 +1,26 @@
+[
+    {
+        "value": 2,
+        "suffix": "+",
+        "label": "Years of Experience",
+        "note": "Across 3 companies, from internship to full-time"
+    },
+    {
+        "value": 64,
+        "suffix": "+",
+        "label": "GitHub Projects",
+        "note": "Public repositories spanning web apps, APIs, and learning projects"
+    },
+    {
+        "value": 20,
+        "suffix": "+",
+        "label": "Technologies Used",
+        "note": "Frontend, backend, and DevOps tooling"
+    },
+    {
+        "value": 6,
+        "suffix": "",
+        "label": "Frameworks Shipped",
+        "note": "React, Vue, Next.js, Angular, Laravel, and .NET"
+    }
+]

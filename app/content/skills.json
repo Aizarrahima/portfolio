@@ -1,0 +1,40 @@
+{
+    "Frontend": [
+        "JavaScript",
+        "React.js",
+        "Vue.js",
+        "Next.js",
+        "Angular.js",
+        "Redux",
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "Bootstrap",
+        "Material UI",
+        "jQuery"
+    ],
+    "Backend": [
+        "PHP",
+        "Laravel",
+        "Node.js",
+        "C#",
+        ".NET",
+        "Java",
+        "Python",
+        "MySQL",
+        "REST APIs",
+        "OOP"
+    ],
+    "DevOps & Tools": [
+        "Git",
+        "OpenShift",
+        "Bitbucket",
+        "GitLab CI/CD",
+        "Kubernetes"
+    ],
+    "Practices": [
+        "UI/UX",
+        "Unit Testing (Jest)",
+        "Agile Scrum"
+    ]
+}

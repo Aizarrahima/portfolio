@@ -1,0 +1,46 @@
+[
+    {
+        "company": "PT Sigma Cipta Caraka (Telkomsigma)",
+        "role": "Fullstack Programmer",
+        "period": "Nov 2024 - Present",
+        "location": "Jakarta, Indonesia",
+        "type": "Full Time",
+        "tags": [
+            "Laravel",
+            "Vue.js",
+            "Next.js",
+            "Node.js",
+            "Microservices",
+            "OpenShift"
+        ],
+        "description": "Assigned to SDWAN, SALMA, WFMTA, and Neucentrix projects. Built and optimized backend systems (data integration, job scheduling, query optimization), designed microservice architecture for SDWAN to improve scalability, developed an interactive dashboard for SALMA with data visualization, integrated RESTful APIs across systems, and deployed projects using OKD for development and production environments."
+    },
+    {
+        "company": "PT Insura Media Solusi",
+        "role": "IT Programmer",
+        "period": "Sep 2023 - Sep 2024",
+        "location": "Jakarta, Indonesia",
+        "type": "Full Time",
+        "tags": [
+            ".NET",
+            "HTML/CSS",
+            "SQL",
+            "LINQ"
+        ],
+        "description": "Developed a fullstack website using .NET frameworks and HTML/CSS, fixed bugs, and wrote SQL queries converted to LINQ for API use."
+    },
+    {
+        "company": "PT Telkom Indonesia",
+        "role": "Frontend Web Developer Intern",
+        "period": "Aug 2022 - Jul 2023",
+        "location": "Jakarta, Indonesia",
+        "type": "Internship",
+        "tags": [
+            "React.js",
+            "Jest",
+            "Figma",
+            "REST API"
+        ],
+        "description": "Developed the internal TestOps website using ReactJS, integrated APIs, implemented unit tests with Jest, and designed new feature pages in Figma."
+    }
+]

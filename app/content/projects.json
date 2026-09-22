@@ -1,0 +1,55 @@
+[
+    {
+        "name": "SALMA (SDWAN Asset License Management)",
+        "period": "2024",
+        "stack": [
+            "Vue.js",
+            "Laravel"
+        ],
+        "description": "Handled UI slicing from prototype to production-ready pages and integrated external project APIs. On the backend, built the inventory analytics menu showing which assets are synced versus not yet synced, developed a public-facing API for external consumption, and handled bug fixing.",
+        "link": null
+    },
+    {
+        "name": "SDWAN Dashboard",
+        "period": "2024",
+        "stack": [
+            "Node.js",
+            "ClickHouse"
+        ],
+        "description": "Developed the Proactive Ticket menu and built a microservice to resolve PDF export reporting issues. Redesigned the SDWAN portal's data-collection architecture — replacing direct per-device polling with a job scheduler across all integrated devices — reducing server load and speeding up data collection for PDF report generation. Also handled ongoing bug fixes.",
+        "link": null
+    },
+    {
+        "name": "WFMTA (Workforce Management)",
+        "period": "2024",
+        "stack": [
+            "Laravel",
+            "Vue.js"
+        ],
+        "description": "Developed several application features and menus, fixed bugs, and monitored application health using the ELK stack (Elasticsearch, Logstash, Kibana) for log analysis.",
+        "link": null
+    },
+    {
+        "name": "FlowForge",
+        "period": "2026",
+        "stack": [
+            "Laravel",
+            "Vue.js",
+            "PostgreSQL"
+        ],
+        "description": "Self-hosted, real-time multi-tenant workflow orchestration engine — a blend of Zapier's workflow simplicity and GitHub Actions' execution model. Built the workflow engine, trigger/action node system, and multi-tenant isolation, with Claude AI integrated for AI-assisted workflow steps.",
+        "link": "https://github.com/Aizarrahima/flowforge"
+    },
+    {
+        "name": "Plantation Block System",
+        "period": "2026",
+        "stack": [
+            "Laravel",
+            "Inertia.js",
+            "Vue.js",
+            "PostgreSQL"
+        ],
+        "description": "Palm oil plantation block management app — built REST APIs, real-time updates via SSE, and an interactive map for visualizing plantation blocks. Covers the full stack from Laravel/Inertia backend to Vue 3 frontend, complete with unit tests and a CI/CD pipeline.",
+        "link": "https://github.com/Aizarrahima/plantation-block-system"
+    }
+]

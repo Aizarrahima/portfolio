@@ -1,0 +1,12 @@
+{
+    "name": "Aizar Rahima Suprayitno",
+    "title": "Full Stack Developer",
+    "tagline": "2+ years building web applications with ReactJS, .NET, Laravel, Vue.js, and Next.js — from microservice architecture to production deployment.",
+    "summary": "Full Stack Developer with 2+ years of professional experience building web applications using ReactJS, .NET, and Laravel/Vue.js/Next.js. Skilled in designing microservice architectures, building interactive dashboards with data visualization, and integrating RESTful APIs across systems. Covers the full development lifecycle — from UI/UX design and unit testing to deployment on OpenShift (OKD) in production environments.",
+    "email": "aizar.works@gmail.com",
+    "links": {
+        "github": "https://github.com/Aizarrahima",
+        "linkedin": "https://www.linkedin.com/in/aizarrahima",
+        "medium": "https://medium.com/@aizarrahima"
+    }
+}

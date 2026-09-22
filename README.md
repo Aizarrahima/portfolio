@@ -1,75 +1,56 @@
-# Nuxt Minimal Starter
+# Aizar Rahima Suprayitno — Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Personal portfolio site built with Nuxt 4, Vue 3, and Tailwind CSS. Showcases work experience, projects, skills, and education, with scroll-triggered animations powered by `@vueuse/motion`.
+
+## Tech Stack
+
+- [Nuxt 4](https://nuxt.com/) (Vue 3, TypeScript)
+- [Tailwind CSS v4](https://tailwindcss.com/)
+- [@vueuse/motion](https://motion.vueuse.org/) for scroll-reveal animations
+- Content sourced from local JSON files (`app/content/`) — no CMS/backend
+- Deployed as a static site (`nitro.preset: vercel-static`) on Vercel
+
+## Project Structure
+
+```
+app/
+├── app.vue                  # Root component, renders <NuxtPage />
+├── assets/css/main.css      # Tailwind entry point
+├── components/
+│   ├── layout/               # NavBar, Footer
+│   ├── sections/              # Hero, AboutMe, WorkHistory, Projects, etc.
+│   └── ui/                   # Reusable pieces: ProjectCard, TimelineCard, StatCard, Pill
+├── content/                  # Profile, projects, skills, work history, stats (JSON)
+└── pages/index.vue           # Assembles all sections
+```
 
 ## Setup
 
-Make sure to install dependencies:
-
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+## Development
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+Runs the dev server at `http://localhost:3000`.
 
-Build the application for production:
+## Build & Preview
 
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+npm run generate   # static build (matches production/Vercel output)
+npm run preview    # preview the production build locally
 ```
 
-Locally preview production build:
+## Type Checking
 
 ```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
+npx nuxt typecheck
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Editing Content
+
+Update the JSON files in `app/content/` to change profile info, work history, projects, skills, or stats — no component code changes needed for content updates.
